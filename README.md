@@ -50,6 +50,6 @@ dolgCount >` тех студентов, которые относятся к н�
  shirts[7] = "S008,White T-Shirt,White,L";
  shirts[8] = "S009,Green T-Shirt,Green,S";
  shirts[9] = "S010,Orange T-Shirt,Orange,S";
- shirts[10] = "S011,Maroon Polo Shirt,Maroon,S";`
+ shirts[10] = "S011,Maroon Polo Shirt,Maroon,S";`  
 Преобразуйте строковый массив в массив класса Shirt и выведите его на
 консоль
