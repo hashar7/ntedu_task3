@@ -40,14 +40,11 @@ dolgCount >` тех студентов, которые относятся к н�
 ![image](https://user-images.githubusercontent.com/86832867/126050692-ac3b43ba-1f8f-48d6-9660-c3492724f401.png)
 Метод toString() выводит объяснение и значение полей построчно.
 Дан также строковый массив:
- `shirts[0] = "S001,Black Polo Shirt,Black,XL";
- 
- shirts[1] = "S002,Black Polo Shirt,Black,L";  
- 
- shirts[2] = "S003,Blue Polo Shirt,Blue,XL";
- 
- shirts[3] = "S004,Blue Polo Shirt,Blue,M";
- shirts[4] = "S005,Tan Polo Shirt,Tan,XL";
+ `shirts[0] = "S001,Black Polo Shirt,Black,XL";`  
+ `shirts[1] = "S002,Black Polo Shirt,Black,L";`  
+ `shirts[2] = "S003,Blue Polo Shirt,Blue,XL";`  
+ `shirts[3] = "S004,Blue Polo Shirt,Blue,M";`  
+ `shirts[4] = "S005,Tan Polo Shirt,Tan,XL";`  
  shirts[5] = "S006,Black T-Shirt,Black,XL";
  shirts[6] = "S007,White T-Shirt,White,XL";
  shirts[7] = "S008,White T-Shirt,White,L";
