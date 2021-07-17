@@ -189,7 +189,6 @@ public class DataBaseImpl implements DataBase {
                 "FROM T_Student WHERE T_Student.id_Group = " + id_Group + " AND T_Student.dolgCount > " + dolgCount;
         try (Connection conn = this.connect();
              PreparedStatement pstmt = conn.prepareStatement(sql)) {
-            System.out.println("Here");
             pstmt.executeUpdate();
         } catch (SQLException e) {
             System.out.println(e.getMessage());
