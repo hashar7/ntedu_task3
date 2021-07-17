@@ -22,7 +22,7 @@ public class Main {
         db1.update("Bob", "Bobster", "Rop", "Ropster", 301, 22);
         db1.delete("Cop", "Copster");
 
-        db1.selectStudent("Lal", "Lalster");
+//         db1.selectStudent("Lal", "Lalster");
 
         db2.addStudents(101, 0);
 
@@ -44,9 +44,7 @@ public class Main {
         T_GroupSelected table has been created
 
         T_Student table has been created
-
-        3	Lal	Lalster	103	8
-        Here
+        
         DB1:
         1	Rop	Ropster	301	22
         2	Coc	Cocster	101	0
